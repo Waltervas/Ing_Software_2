@@ -1,3 +1,10 @@
+fjsdfhsdfhsdjkfhsdjkh sdh dshf sdhf ksdh jkdhsjkdhs 
+f jksdhf sdjkh ksdh kds
+fh dsfh sdjkhf sdkjh 
+sdfj sdfjk sd 
+
+
+
 GMiner was created by a Russian group of specialists in the field of high performance computing and cryptography.
 The first version of GMiner was released on September 21, 2018 and was received quite warmly among users.
 Thanks to its unique developments and stability, in just six months, the miner became a favorite on the Equihash algorithms.
